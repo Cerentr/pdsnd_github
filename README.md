@@ -14,4 +14,8 @@ Include the files used
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Ceren is the first developer for this project.
+We are looking for volunteer developers.
+They most develop code on Python. 
+And Progresql Knowledge is must. 
 
