@@ -5,7 +5,14 @@ import numpy as np
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
+MONTHS = ('january', 'february', 'march', 'april', 'may', 'june')
+DAYS = ('sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday')
 
+def assigncity():
+    #For city information entry and validation
+
+      return city
+      
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
@@ -17,7 +24,7 @@ def get_filters():
     """
     print('Hello! Let\'s explore some US bikeshare data!')
     # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
-    
+    city = assigncity()   
 
     # TO DO: get user input for month (all, january, february, ... , june)
 
