@@ -1,8 +1,8 @@
-### Date created
-Include the date you created this project and README file.
+### Date created 
+2020-05-23 16:50
 
 ### Project Title
-Replace the Project Title
+Ceren's Bikeshare Project
 
 ### Description
 Describe what your project is about and what it does
