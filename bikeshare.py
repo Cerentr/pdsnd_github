@@ -12,6 +12,10 @@ def assigncity():
     #For city information entry and validation
 
       return city
+ 
+def assigndate_choice():
+
+      return date_choice
       
 def get_filters():
     """
@@ -25,7 +29,8 @@ def get_filters():
     print('Hello! Let\'s explore some US bikeshare data!')
     # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     city = assigncity()   
-
+    date_choice = assigndate_choice()
+    
     # TO DO: get user input for month (all, january, february, ... , june)
 
 
